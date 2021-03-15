@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+pkexec /usr/lib/arcolinux-calamares-tool/arcolinux-calamares-tool.py
+# pkexec /home/bheffernan/Repos/Python-Apps/arcolinux-calamares-tool/usr/lib/arcolinux-calamares-tool/arcolinux-calamares-tool.py
