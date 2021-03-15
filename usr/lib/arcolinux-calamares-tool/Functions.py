@@ -21,8 +21,8 @@ if DEBUG:
 else:
     config = "/etc/calamares/modules/partition.conf"
     awa = "/usr/share/arcolinux-welcome-app/arcolinux-welcome-app.py"
-    liveuser = "erik"
-    #liveuser = "liveuser"
+    #liveuser = "erik"
+    liveuser = "liveuser"
 fs = [
     'btrfs',
     'xfs',
