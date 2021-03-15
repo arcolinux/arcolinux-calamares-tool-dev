@@ -3,7 +3,6 @@
 # =                  Author: Brad Heffernan                       =
 # =================================================================
 import gi
-#import os
 import GUI
 import Functions as fn
 
