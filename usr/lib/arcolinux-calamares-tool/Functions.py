@@ -27,6 +27,7 @@ fs = [
     'xfs',
     'jfs',
     'reiser',
+    'f2fs',
     'ext4',
 ]
 
